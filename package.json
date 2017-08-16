@@ -1,0 +1,24 @@
+{
+  "name": "tmpl",
+  "version": "1.0.0",
+  "description": "tmpl extends  baidutemplate",
+  "main": "baiduTemplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shangwenhe/tmpl.git"
+  },
+  "keywords": [
+    "baidutemplate",
+    "tmpl"
+  ],
+  "author": "shangwenhe",
+  "email": "15810179305@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shangwenhe/tmpl/issues"
+  },
+  "homepage": "https://github.com/shangwenhe/tmpl#readme"
+}
