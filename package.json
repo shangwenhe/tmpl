@@ -1,5 +1,5 @@
 {
-  "name": "tmpl",
+  "name": "webpack-tmpl",
   "version": "1.0.0",
   "description": "tmpl extends  baidutemplate",
   "main": "baiduTemplate.js",
